@@ -1,0 +1,6 @@
+3f70c98825989dcaa0d538d00560bbb5 *DESCRIPTION
+340b050a7f97a9f84947b2d26bb06ad0 *LICENSE
+1637f34882f726f7e692ee758aa71126 *NAMESPACE
+e6ff564f0c3fa3560e6659a636d3b7ab *R/transform_mos.R
+83326aa87473d3d6779b4ec477bcd1de *man/transform_mos.Rd
+1df6b9d142350b4ff1a7fda3e6a0f050 *tests/testthat/test_transform_mos.R
